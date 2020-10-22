@@ -267,7 +267,7 @@ body {
   padding-bottom: 0;
   padding-left: 0;
   padding-right: 0;
-  margin-top: 74%;
+  margin-top: 3%;
 }
 
 .menu-center .menu-right {
@@ -289,6 +289,7 @@ body {
   float: right;
   margin-top: 50px;
   color: #fafafa;
+  margin-right: 3%;
 }
 
 @media (max-width: 320px) {
@@ -324,11 +325,19 @@ body {
 
   .footer {
     width: 110%;
-    height: 25vh;
+    height: 20vh;
     margin-top: 2%;
   }
 
   .footer li {
     margin-right: 15%;
+  }
+
+  .logo {
+    position: relative;
+    float: left;
+    width: 30%;
+    height: auto;
+    padding-left: 15px;
   }
 }
