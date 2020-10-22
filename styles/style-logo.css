@@ -2,7 +2,7 @@ body {
     margin: 0;
     padding: 0;
   }
-  
+
   h2 {
     display: block;
     margin-block-start: 1em;
@@ -22,8 +22,8 @@ body {
     letter-spacing: 0.12rem;
     text-align: center;
   }
-  
-  
+
+
   p {
     line-height: 2.5rem;
     font-size: 1rem;
@@ -37,7 +37,7 @@ body {
     margin-right: 30%;
     font-weight: 700;
   }
-  
+
   img {
     width: auto;
     height: 50vh;
@@ -51,12 +51,12 @@ body {
     body {
       padding: 0px;
     }
-  
+
     img {
       width: 100%;
       height: auto;
     }
-  
+
     p {
       line-height: 2.5rem;
       font-size: 1rem;
@@ -70,6 +70,4 @@ body {
       margin-right: 3%;
       font-weight: 700;
     }
-  
   }
-  
